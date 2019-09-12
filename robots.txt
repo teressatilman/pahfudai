@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahgeadeiqu.cirqwizard.org/sitemap.xml
